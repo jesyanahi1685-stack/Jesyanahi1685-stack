@@ -40,3 +40,7 @@ Fan de Jujutsu Kaisen & el café a las 2am
 <div align="center">
   <em>"Throughout Heaven and Earth, I alone am the honored one." — Gojo Satoru </em>
 </div>
+---
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jesyanahi1685-stack/jesyanahi1685-stack/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+</div>
