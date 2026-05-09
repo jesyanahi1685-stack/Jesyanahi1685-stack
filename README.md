@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://www.icegif.com/wp-content/uploads/2025/02/satoru-gojo-icegif-9.gif" width="180" style="border-radius:12px"/>
+  <img src="https://www.icegif.com/wp-content/uploads/2025/02/satoru-gojo-icegif-9.gif" width="280" style="border-radius:12px"/>
 
   ![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Jesyanahi+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Anime+lover+%F0%9F%8E%8C;%22You+think+I'd+lose+to+you%3F%22+-+Gojo)
 </div>
 
 ---
 
-🔭 Actualmente trabajando en proyectos full stack  
-🌱 Aprendiendo: **Ensamblador · C# · Kubernetes**  
-⚡ Fan de Jujutsu Kaisen & el café a las 2am
+Actualmente trabajando en proyectos full stack  
+Aprendiendo: **Ensamblador · C# · Kubernetes**  
+Fan de Jujutsu Kaisen & el café a las 2am
 
 ---
 
@@ -38,5 +38,5 @@
 
 ---
 <div align="center">
-  <em>"Throughout Heaven and Earth, I alone am the honored one." — Gojo Satoru 👁️</em>
+  <em>"Throughout Heaven and Earth, I alone am the honored one." — Gojo Satoru </em>
 </div>
