@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.icegif.com/wp-content/uploads/2025/02/satoru-gojo-icegif-9.gif" width="280" style="border-radius:12px"/>
+  <img src="https://www.icegif.com/wp-content/uploads/2025/02/satoru-gojo-icegif-9.gif" width="460" style="border-radius:12px"/>
 
   ![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Jessika;Full+Stack+Developer;Anime+lover+%F0%9F%8E%8C;%22You+think+I'd+lose+to+you%3F%22+-+Gojo)
 </div>
@@ -31,9 +31,8 @@ Fan de Jujutsu Kaisen & el café a las 2am
 ---
 
 ### GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=jesyanahi1685-stack&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesyanahi1685-stack&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Stats](https://github-readme-stats.vercel.app/api?username=jesyanahi1685-stack&show_icons=true&theme=tokyonight&hide_border=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesyanahi1685-stack&layout=compact&theme=tokyonight&hide_border=true)
 
 ![Streak](https://streak-stats.demolab.com?user=jesyanahi1685-stack&theme=tokyonight&hide_border=true)
 
@@ -43,6 +42,4 @@ Fan de Jujutsu Kaisen & el café a las 2am
 </div>
 ---
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jesyanahi1685-stack/jesyanahi1685-stack/output/github-contribution-grid-snake-dark.svg" alt="snake"/> ![Streak](https://streak-stats.demolab.com?user=jesyanahi1685-stack&theme=tokyonight&hide_border=true)
-</div>
-
+  <img src="https://raw.githubusercontent.com/jesyanahi1685-stack/jesyanahi1685-stack/output/github-contribution-grid-snake-dark.svg" alt="snake"/> 
