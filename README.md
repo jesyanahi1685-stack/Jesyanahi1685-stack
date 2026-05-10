@@ -31,7 +31,7 @@ Fan de Jujutsu Kaisen & el café a las 2am
 ---
 
 ### GitHub Stats
-![Streak](https://streak-stats.demolab.com?user=jesyanahi1685-stack&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=jesyanahi1685-stack&theme=tokyonight&hide_border=true) 
 
 ---
 <div align="center">
