@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://i.pinimg.com/1200x/36/c4/79/36c47916269f8d0884b5817e369874b0.jpg" width="890" style="border-radius:12px"/>
 
-  ![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Jessika;Full+Stack+Develper;%22Todo+es+legal+en+nueva+yersey%22)
+  ![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Jessika;Full+Stack+Develper;%22Todo+es+legal+en+nueva+jersey%22)
 </div>
 
 ---
