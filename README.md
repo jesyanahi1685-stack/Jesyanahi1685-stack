@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://i.pinimg.com/1200x/36/c4/79/36c47916269f8d0884b5817e369874b0.jpg" width="890" style="border-radius:12px"/>
 
-  ![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Jessika;Full+Stack+Developer;Anime+lover+%F0%9F%8E%8C;%22Todo+es+legal+en+nueva+yersey%22)
+  ![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Jessika;Full+Stack+Developer;Anime+lover+%F0%9F%8E%8C;%22Todo+es+legal+en+nueva+yersey%22)
 </div>
 
 ---
@@ -35,7 +35,7 @@ Amante de la fisica cuantica & el café a las 2am
 
 ---
 <div align="center">
-  <em>"Throughout Heaven and Earth, I alone am the honored one." — Gojo Satoru </em>
+  <em>"I am not throwing away my shot!" — Alexander Hamilton </em>
 </div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/jesyanahi1685-stack/jesyanahi1685-stack/output/github-contribution-grid-snake-dark.svg" alt="snake"/> 
