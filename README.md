@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.icegif.com/wp-content/uploads/2025/02/satoru-gojo-icegif-9.gif" width="460" style="border-radius:12px"/>
+  <img src="https://pin.it/10Vu1dCg0" width="460" style="border-radius:12px"/>
 
   ![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Jessika;Full+Stack+Developer;Anime+lover+%F0%9F%8E%8C;%22You+think+I'd+lose+to+you%3F%22+-+Gojo)
 </div>
