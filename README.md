@@ -75,12 +75,6 @@ Amante de la física cuántica & el café a las 2am
 
 ---
 
-### GitHub Stats
-
-![Streak](https://streak-stats.demolab.com?user=jesyanahi1685-stack&theme=tokyonight&hide_border=true)
-
----
-
 <div align="center">
   <em>"I am not throwing away my shot!" — Alexander Hamilton</em>
 </div>
