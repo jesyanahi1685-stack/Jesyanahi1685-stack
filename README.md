@@ -1,84 +1,140 @@
 <div align="center">
 
-  <img src="https://i.pinimg.com/736x/cd/54/e5/cd54e5f5e6c01a0b808eb102846922ca.jpg" width="890" style="border-radius:12px"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Jessika%20%E2%9C%A8&fontSize=70&fontAlignY=35&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Artista%20Digital&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-  ![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Jessika;Full+Stack+Developer;%22amo+dibujar%22)
+<img src="https://i.pinimg.com/736x/cd/54/e5/cd54e5f5e6c01a0b808eb102846922ca.jpg" width="890" style="border-radius:16px"/>
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=720&height=60&lines=Hola%2C+soy+Jessika+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Amo+dibujar+%F0%9F%8E%A8;Siempre+aprendiendo+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<!-- ✨ Badges más padres ✨ -->
+<img src="https://img.shields.io/badge/status-coding%20%E2%9A%A1-58A6FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/fueled%20by-coffee%20%E2%98%95-6f42c1?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/made%20with-%E2%9D%A4%EF%B8%8F%20%2B%20pixels-ff4f8b?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/github/last-commit/jesyanahi1685-stack/jesyanahi1685-stack?style=for-the-badge&color=ffca28&labelColor=0D1117&label=last%20push" />
 
 </div>
 
 ---
 
-Actualmente trabajando en proyectos full stack  
+### 🚀 Sobre mí
 
-Aprendiendo: **Ensamblador · C# · Kubernetes**  
+```ts
+// ~/jessika.ts  →  $ whoami
+const jessika = {
+  alias:        "jess ✦",
+  rol:          ["Full Stack Dev", "Pixel Witch 🎨"],
+  ubicacion:    "🌎 Latinoamérica (UTC-6)",
+  stack_actual: ["TypeScript", "React", "Node", "Postgres"],
+  construyendo: "cositas full stack con alma indie",
+  aprendiendo:  ["☁️  Cloud", "⚙️  DevOps", "🤖 AI"],
+  modo_off:     ["dibujar 🖌️", "diseñar ✨", "musicales 🎭"],
+  easter_egg:   "abre la consola, te dejé un saludo 👀",
+  mantra:       "I am not throwing away my shot! 🎯",
+} as const;
 
-Amante de la física cuántica & el café a las 2am
-
+console.log(`☕ + 🎧 + 💻 = ${jessika.alias}`);
+```
 ---
 
-## Tech Stack
-
-### Lenguajes de programación
-[![Lenguajes](https://skillicons.dev/icons?i=bash,c,cpp,cs,css,haskell,html,java,js,kotlin,latex,md,php,python,rust,swift,ts,wasm&perline=10)](https://skillicons.dev)
-
-> Otros: ![AssemblyScript](https://img.shields.io/badge/AssemblyScript-007AAC?style=for-the-badge&logo=assemblyscript&logoColor=fff) ![HTMX](https://img.shields.io/badge/HTMX-36C?style=for-the-badge&logo=htmx&logoColor=fff) ![JSON](https://img.shields.io/badge/JSON-000?style=for-the-badge&logo=json&logoColor=fff) ![XML](https://img.shields.io/badge/XML-767C52?style=for-the-badge&logo=xml&logoColor=fff) ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=fff)
-
-### Frameworks & Librerías
-[![Frameworks](https://skillicons.dev/icons?i=angular,bootstrap,electron,fastapi,flask,express,graphql,laravel,nodejs,nextjs,react,spring,tailwind,tensorflow,threejs,vue&perline=10)](https://skillicons.dev)
-
-### Bases de datos
-[![DB](https://skillicons.dev/icons?i=redis,sqlite,supabase,postgres,mysql,mongodb,mariadb&perline=10)](https://skillicons.dev)
-
-> Otros: ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-### Cloud & DevOps
-[![Cloud](https://skillicons.dev/icons?i=aws,cloudflare,docker,kubernetes,netlify,nginx,vercel,terraform,azure&perline=10)](https://skillicons.dev)
-
-> Otros: ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=000)
-
-### Control de versiones
-[![Git](https://skillicons.dev/icons?i=git,github,githubactions&perline=10)](https://skillicons.dev)
-
-### Diseño
-[![Design](https://skillicons.dev/icons?i=figma&perline=10)](https://skillicons.dev)
-
-> Otros: ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-### Desarrollo de API
-[![API](https://skillicons.dev/icons?i=postman&perline=10)](https://skillicons.dev)
-
-### Ciencia de Datos
-> ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=fff) ![Power BI](https://img.shields.io/badge/Power%20BI-F1C912?style=for-the-badge&logo=powerbi&logoColor=000) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=fff) ![Tableau](https://img.shields.io/badge/Tableau-0176D3?style=for-the-badge&logo=tableau&logoColor=fff) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff) ![NumPy](https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=fff)
-
-### Herramientas de colaboración
-> ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=fff) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=fff) ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=fff) ![Notion](https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion&logoColor=fff)
-
-### IDEs
-[![IDEs](https://skillicons.dev/icons?i=vscode,visualstudio,idea&perline=10)](https://skillicons.dev)
-
-> Otros: ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-
-### Motores de juego
-[![Engines](https://skillicons.dev/icons?i=unity,unreal&perline=10)](https://skillicons.dev)
-
-### Sistemas operativos
-[![OS](https://skillicons.dev/icons?i=windows,ubuntu,kali,nixos&perline=10)](https://skillicons.dev)
-
-### ORM
-[![ORM](https://skillicons.dev/icons?i=prisma&perline=10)](https://skillicons.dev)
-
-### Sistemas de pago
-> ![Stripe](https://img.shields.io/badge/Stripe-5851DD?style=for-the-badge&logo=stripe&logoColor=fff)
-
-### Aprendiendo
-> ![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=fff)
-
----
+### 📊 GitHub Stats
 
 <div align="center">
-  <em>"I am not throwing away my shot!" — Alexander Hamilton</em>
+
+<!-- Streak (nuevo dominio en Vercel) -->
+<img src="https://streak-stats.demolab.com?user=jesyanahi1685-stack&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
+
+<!-- Activity graph (usa el dominio .vercel.app actualizado) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jesyanahi1685-stack&bg_color=0D1117&color=58A6FF&line=6f42c1&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+
 </div>
 
+---
+
+### 🛠️ Tech Stack
+
+<details open>
+<summary><b>💻 Lenguajes</b></summary>
+<br/>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>⚛️ Frameworks & Librerías</b></summary>
+<br/>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🗄️ Bases de Datos</b></summary>
+<br/>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br/>
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🎨 Diseño & Herramientas</b></summary>
+<br/>
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</details>
+
+---
+
+### 🐍 Contribuciones
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jesyanahi1685-stack/jesyanahi1685-stack/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+
+<img src="https://raw.githubusercontent.com/jesyanahi1685-stack/jesyanahi1685-stack/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 *"I am not throwing away my shot!"* — Alexander Hamilton
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Gracias%20por%20visitar%20%F0%9F%92%96&fontSize=22&fontColor=ffffff&animation=twinkling" width="100%"/>
+
 </div>
