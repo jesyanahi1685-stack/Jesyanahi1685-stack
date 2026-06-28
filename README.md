@@ -2,17 +2,22 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Jessika%20%E2%9C%A8&fontSize=70&fontAlignY=35&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Artista%20Digital&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<img src="https://i.pinimg.com/736x/cd/54/e5/cd54e5f5e6c01a0b808eb102846922ca.jpg" width="890" style="border-radius:16px"/>
+<img src="https://i.pinimg.com/736x/7c/f9/3e/7cf93ed6620f7d1eeb57909868d837d8.jpg" width="890" style="border-radius:16px"/>
 
 <br/>
-
+<p align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=720&height=60&lines=Hola%2C+soy+Jessika+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Amo+dibujar+%F0%9F%8E%A8;Siempre+aprendiendo+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+   <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack;Amante%20de%20los%20DC%20comics;Aprendiendo%20nueva%20tecnologia&font=Pacifico&center=true&width=650&height=120&color=808080&vCenter=true&size=45%22"></a>
+</p>
+  
+
+<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="80"/>
+<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="80"/>
+<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="80"/>
+
 
 <br/><br/>
 
-<!-- ✨ Badges más padres ✨ -->
 <img src="https://img.shields.io/badge/status-coding%20%E2%9A%A1-58A6FF?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/fueled%20by-coffee%20%E2%98%95-6f42c1?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/made%20with-%E2%9D%A4%EF%B8%8F%20%2B%20pixels-ff4f8b?style=for-the-badge&labelColor=0D1117" />
@@ -28,7 +33,7 @@
 // ~/jessika.ts  →  $ whoami
 const jessika = {
   alias:        "jess ✦",
-  rol:          ["Full Stack Dev", "Pixel Witch 🎨"],
+  rol:          ["Full Stack Dev", "Batgirl 🦇"],
   ubicacion:    "🌎 Latinoamérica (UTC-6)",
   stack_actual: ["TypeScript", "React", "Node", "Postgres"],
   construyendo: "cositas full stack con alma indie",
@@ -45,10 +50,13 @@ console.log(`☕ + 🎧 + 💻 = ${jessika.alias}`);
 ### 📊 GitHub Stats
 
 <div align="center">
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jesyanahi1685-stack&count_private=true&show_icons=trueline_height=21&theme=github_dark">
+
 
 <!-- Streak (nuevo dominio en Vercel) -->
-<img src="https://streak-stats.demolab.com?user=jesyanahi1685-stack&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
-
+<img align="center" src="https://streak-stats.demolab.com?user=jesyanahi1685-stack&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
+</br>
 <!-- Activity graph (usa el dominio .vercel.app actualizado) -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jesyanahi1685-stack&bg_color=0D1117&color=58A6FF&line=6f42c1&point=ffffff&area=true&hide_border=true" width="100%"/>
 
@@ -58,7 +66,6 @@ console.log(`☕ + 🎧 + 💻 = ${jessika.alias}`);
 ---
 
 ### 🛠️ Tech Stack
-
 <details open>
 <summary><b>💻 Lenguajes</b></summary>
 <br/>
@@ -132,10 +139,10 @@ console.log(`☕ + 🎧 + 💻 = ${jessika.alias}`);
 
 <div align="center">
 
-### 💬 *"I am not throwing away my shot!"* — Alexander Hamilton
+### 💬 *"Soy la venganza, soy la noche, soy Batman."* 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Gracias%20por%20visitar%20%F0%9F%92%96&fontSize=22&fontColor=ffffff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Gracias%20por%20visitar%20&fontSize=22&fontColor=ffffff&animation=twinkling" width="100%"/>
 
 </div>
