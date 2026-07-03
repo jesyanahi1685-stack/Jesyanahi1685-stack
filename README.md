@@ -51,9 +51,6 @@ console.log(`☕ + 🎧 + 💻 = ${jessika.alias}`);
 
 <div align="center">
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jesyanahi1685-stack&count_private=true&show_icons=trueline_height=21&theme=github_dark">
-
-
 <!-- Streak (nuevo dominio en Vercel) -->
 <img align="center" src="https://streak-stats.demolab.com?user=jesyanahi1685-stack&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
 </br>
