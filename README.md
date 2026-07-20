@@ -4,10 +4,6 @@
 
 <br/>
 
-<p align="center">
-<a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack;Amante%20de%20los%20DC%20comics;Aprendiendo%20nueva%20tecnologia&font=Pacifico&center=true&width=650&height=120&color=808080&vCenter=true&size=45"></a>
-</p>
-
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="80"/>
 <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="80"/>
 <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="80"/>
