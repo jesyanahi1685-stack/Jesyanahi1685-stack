@@ -1,27 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Jessika fontSize=70&fontAlignY=35&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20DevOps&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
-<img src="https://i.pinimg.com/736x/7c/f9/3e/7cf93ed6620f7d1eeb57909868d837d8.jpg" width="890" style="border-radius:16px"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Jessika&fontSize=80&fontAlignY=38&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20DevOps&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
+
 <p align="center">
-<a href="https://git.io/typing-svg">
-   <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack;Amante%20de%20los%20DC%20comics;Aprendiendo%20nueva%20tecnologia&font=Pacifico&center=true&width=650&height=120&color=808080&vCenter=true&size=45%22"></a>
+<a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack;Amante%20de%20los%20DC%20comics;Aprendiendo%20nueva%20tecnologia&font=Pacifico&center=true&width=650&height=120&color=808080&vCenter=true&size=45"></a>
 </p>
-  
 
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="80"/>
 <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="80"/>
 <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="80"/>
-
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/status-coding%20%E2%9A%A1-58A6FF?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/fueled%20by-coffee%20%E2%98%95-6f42c1?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/made%20with-%E2%9D%A4%EF%B8%8F%20%2B%20pixels-ff4f8b?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/github/last-commit/jesyanahi1685-stack/jesyanahi1685-stack?style=for-the-badge&color=ffca28&labelColor=0D1117&label=last%20push" />
 
 </div>
 
@@ -31,18 +20,15 @@
 
 <div align="center">
 <br>
-<!-- Streak (nuevo dominio en Vercel) -->
 <img align="center" src="https://streak-stats.demolab.com?user=jesyanahi1685-stack&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
 </br>
-<!-- Activity graph (usa el dominio .vercel.app actualizado) -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jesyanahi1685-stack&bg_color=0D1117&color=58A6FF&line=6f42c1&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-
 </div>
 
 ---
 
 ### 🛠️ Tech Stack
+
 <details open>
 <summary><b>💻 Lenguajes</b></summary>
 <br/>
@@ -116,6 +102,8 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Gracias%20por%20visitar%20&fontSize=22&fontColor=ffffff&animation=twinkling" width="100%"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Gracias%20por%20visitar&fontSize=22&fontColor=ffffff&animation=twinkling" width="100%"/>
 
 </div>
